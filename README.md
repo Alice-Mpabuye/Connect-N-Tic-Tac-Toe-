@@ -20,4 +20,8 @@ Technologies used:
 - Java
 - Object-Oriented Programming (inheritance, abstraction, encapsulation)
 
+<<<<<<< HEAD
 This project demonstrates core Java skills, game logic implementation, and clean object-oriented design.
+=======
+This project demonstrates core Java skills, game logic implementation, and clean object-oriented design.
+>>>>>>> 4d249398689fc654ff006bcebfb7aade4be056ec
